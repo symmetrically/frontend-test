@@ -1,0 +1,7 @@
+Create a very simple Angular App. The app will have a search box which will call the github API to search for repositories
+and show them a table. 
+
+Github endpoints:
+
+https://developer.github.com/v3/search/#search-repositories
+https://help.github.com/en/github/searching-for-information-on-github/searching-for-repositories
